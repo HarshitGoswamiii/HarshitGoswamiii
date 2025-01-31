@@ -9,8 +9,7 @@ Hi, I’m Harshit Goswami, an Android developer skilled in crafting user-friendl
 * 🌍  I'm based in India
 * ✉️  You can contact me at [harshitgoswami244@gmail.com](mailto:harshitgoswami244@gmail.com)
 * 🧠  I'm learning Android Development
-* 🤝  I'm open to collaborating on interesting projects# 💫 About Me:
-🌱 I’m currently learning Android Development<br>
+* 💫 About Me: 🌱 I’m currently learning Android Development<br>
 
 
 ## 🌐 Socials:
