@@ -22,12 +22,12 @@
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HarshitGoswamiii&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-<!-- <img src="https://streak-stats.demolab.com?user=HarshitGoswamiii&theme=tokyonight&cache_seconds=86400" height="170"/>
+<img src="https://streak-stats.demolab.com?user=HarshitGoswamiii&theme=tokyonight&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGoswamiii&layout=compact&theme=tokyonight&cache_seconds=86400" height="150"/>
-</p> -->
+</p> 
 
 ---
 ## 🏆 GitHub Trophies
@@ -42,4 +42,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshitGoswamiii&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
